@@ -1,8 +1,8 @@
 {
   "title": "Auth0 Account Link (custom)",
   "name": "auth0-account-link-custom",
-  "version": "2.6.4",
-  "preVersion": "2.6.3",
+  "version": "2.7.4",
+  "preVersion": "2.6.4",
   "author": "rich",
   "description":
     "This extension gives Auth0 customers the ability to allow their users to link their accounts",
